@@ -1,0 +1,47 @@
+body{
+
+    background-color: aquamarine;
+
+}
+
+
+#izquierda{
+
+    text-align: left;
+    background-color: greenyellow;
+
+}
+
+#centro{
+
+    text-align: center;
+    background-color: white;
+    color: red;
+
+}
+
+#derecha{
+
+    text-align: right;
+    background-color: red;
+    color: white;
+
+}
+#titulo{
+
+    text-align: center;
+
+}
+
+#rowBorder{
+
+    background-color: wheat;
+    text-align: center;
+
+}
+
+#boton{
+
+    text-align: center;
+
+}
